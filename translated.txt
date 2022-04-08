@@ -1,0 +1,19 @@
+languageToTranslation = new HashMap<>();
+languageToTranslation.put("English", "Please check entered details or reupload the PAN image.");
+languageToTranslation.put("Assamese", "অনুগ্ৰহ কৰি এন্টাৰ কৰা বিৱৰণ চেক কৰক আৰু PAN কাৰ্ডৰ ফটো পুনৰ আপলোড কৰক");
+languageToTranslation.put("Bengali", "অনুগ্রহ করে দেয় বিবরণ চেক করুন বা PAN কার্ডের ছবি আবার আপলোড করুন।");
+languageToTranslation.put("Bhojpuri", "कृपया दर्ज कईल गईल डीटेल के चेक करीं या PAN कार्ड के इमेज के फिर से अपलोड करीं");
+languageToTranslation.put("Gujarati", "કૃપા કરીને દાખલ કરેલી વિગતો તપાસો અથવા PAN કાર્ડની ઇમેજ ફરીથી અપલોડ કરો.");
+languageToTranslation.put("Haryanvi", "कृपया दर्ज की गई डिटेल की जांच करो या PAN कार्ड की इमेज नै फेर तै अपलोड करो");
+languageToTranslation.put("Hindi", "कृपया दर्ज की गई डीटेल को चेक करें या PAN कार्ड की इमेज को फिर से अपलोड करें");
+languageToTranslation.put("Kannada", "ದಯವಿಟ್ಟು ನಮೂದಿಸಿದ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವಾ PAN ಇಮೇಜ್ ಅನ್ನು ಮರುಅಪ್‌ಲೋಡ್ ಮಾಡಿ.");
+languageToTranslation.put("Malayalam", "നൽകിയ വിവരങ്ങൾ പരിശോധിക്കുക അല്ലെങ്കിൽ PAN  ഇമേജ് വീണ്ടും അപ്‌ലോഡ് ചെയ്യൂ");
+languageToTranslation.put("Marathi", "कृपया एंटर केलेले डिटेल्स चेक करा किंवा पॅन कार्ड इमेज पुन्हा अपलोड करा");
+languageToTranslation.put("Telugu", "దయచేసి ఎంటర్ చేసిన వివరాలను చెక్ చేయండి లేదా పాన్ కార్డ్ ఇమేజ్‌ని మళ్ళీ అప్‌లోడ్ చేయండి");
+languageToTranslation.put("Odia", "ଦୟାକରି ଏଣ୍ଟର କରାଯାଇଥିବା ତଥ୍ୟ ଯାଞ୍ଚ କରନ୍ତୁ କିମ୍ବା PAN ଇମେଜ୍ ପୁଣି ଅପଲୋଡ୍ କରନ୍ତୁ");
+languageToTranslation.put("Punjabi", "ਕਿਰਪਾ ਕਰਕੇ ਦਾਖਲ ਕੀਤੇ ਡਿਟੇਲਸ ਦੀ ਜਾਂਚ ਕਰੋ ਜਾਂ PAN ਫ਼ੋਟੋ ਨੂੰ ਦੁਬਾਰਾ ਅਪਲੋਡ ਕਰੋ");
+languageToTranslation.put("Rajasthani", "कृपया दर्ज की गई डिटेल री जांच करो या PAN कार्ड री इमेज ने फेर स्यूं अपलोड करो");
+languageToTranslation.put("Tamil", "உள்ளிட்ட விவரங்களைச் சரிபார்க்கவும் அல்லது PAN படத்தை மீண்டும் பதிவேற்றவும்.");
+languageToTranslation.put("Urdu", "براہ کرم درج کردہ تفصیلات چیک کریں یا پین کی تصویر دوبارہ اپ لوڈ کریں");
+englishToVernacular.put(languageToTranslation.get("English").toLowerCase(), languageToTranslation);
+
